@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.api.auto.testcase.TC01_TaoBoard"/>
+      <class name="com.api.auto.testcase.TC02_TaoList"/>
+      <class name="com.api.auto.testcase.TC03_TaoCard"/>
+      <class name="com.api.auto.testcase.TC04_UpdateCard"/>
+      <class name="com.api.auto.testcase.TC05_GetListBoard"/>
+	  <class name="com.api.auto.testcase.TC06_DeleteBoard"/>
+      <class name="com.api.auto.testcase.TC07_GetListBoard"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

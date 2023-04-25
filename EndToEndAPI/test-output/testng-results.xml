@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T18:52:28 ICT" name="Suite" finished-at="2023-04-20T18:52:38 ICT" duration-ms="10103">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T18:52:28 ICT" name="Test" finished-at="2023-04-20T18:52:38 ICT" duration-ms="10103">
+      <class name="com.api.auto.testcase.TC03_TaoCard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC03_TaoCard@78123e82]" started-at="2023-04-20T18:52:33 ICT" name="init" finished-at="2023-04-20T18:52:34 ICT" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_NameCard()[pri:0, instance:com.api.auto.testcase.TC03_TaoCard@78123e82]" started-at="2023-04-20T18:52:34 ICT" name="Verify_NameCard" finished-at="2023-04-20T18:52:34 ICT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_NameCard -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC03_TaoCard@78123e82]" started-at="2023-04-20T18:52:34 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:34 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+      </class> <!-- com.api.auto.testcase.TC03_TaoCard -->
+      <class name="com.api.auto.testcase.TC02_TaoList">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC02_TaoList@6d4e5011]" started-at="2023-04-20T18:52:32 ICT" name="init" finished-at="2023-04-20T18:52:33 ICT" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_NameList()[pri:0, instance:com.api.auto.testcase.TC02_TaoList@6d4e5011]" started-at="2023-04-20T18:52:33 ICT" name="Verify_NameList" finished-at="2023-04-20T18:52:33 ICT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_NameList -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC02_TaoList@6d4e5011]" started-at="2023-04-20T18:52:33 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:33 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+        <test-method signature="idList_existed()[pri:0, instance:com.api.auto.testcase.TC02_TaoList@6d4e5011]" started-at="2023-04-20T18:52:33 ICT" name="idList_existed" finished-at="2023-04-20T18:52:33 ICT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idList_existed -->
+      </class> <!-- com.api.auto.testcase.TC02_TaoList -->
+      <class name="com.api.auto.testcase.TC04_UpdateCard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC04_UpdateCard@67c33749]" started-at="2023-04-20T18:52:34 ICT" name="init" finished-at="2023-04-20T18:52:35 ICT" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_NameCard()[pri:0, instance:com.api.auto.testcase.TC04_UpdateCard@67c33749]" started-at="2023-04-20T18:52:35 ICT" name="Verify_NameCard" finished-at="2023-04-20T18:52:35 ICT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_NameCard -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC04_UpdateCard@67c33749]" started-at="2023-04-20T18:52:35 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:35 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+      </class> <!-- com.api.auto.testcase.TC04_UpdateCard -->
+      <class name="com.api.auto.testcase.TC05_GetListBoard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC05_GetListBoard@fba92d3]" started-at="2023-04-20T18:52:35 ICT" name="init" finished-at="2023-04-20T18:52:35 ICT" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC05_GetListBoard@fba92d3]" started-at="2023-04-20T18:52:35 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:35 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+        <test-method signature="idFirstBoard()[pri:0, instance:com.api.auto.testcase.TC05_GetListBoard@fba92d3]" started-at="2023-04-20T18:52:35 ICT" name="idFirstBoard" finished-at="2023-04-20T18:52:35 ICT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idFirstBoard -->
+      </class> <!-- com.api.auto.testcase.TC05_GetListBoard -->
+      <class name="com.api.auto.testcase.TC07_GetListBoard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC07_GetListBoard@fa49800]" started-at="2023-04-20T18:52:37 ICT" name="init" finished-at="2023-04-20T18:52:38 ICT" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC07_GetListBoard@fa49800]" started-at="2023-04-20T18:52:38 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:38 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+        <test-method signature="idFirstBoard()[pri:0, instance:com.api.auto.testcase.TC07_GetListBoard@fa49800]" started-at="2023-04-20T18:52:38 ICT" name="idFirstBoard" finished-at="2023-04-20T18:52:38 ICT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idFirstBoard -->
+      </class> <!-- com.api.auto.testcase.TC07_GetListBoard -->
+      <class name="com.api.auto.testcase.TC01_TaoBoard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC01_TaoBoard@429bffaa]" started-at="2023-04-20T18:52:28 ICT" name="init" finished-at="2023-04-20T18:52:31 ICT" duration-ms="3696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_NameBoard()[pri:0, instance:com.api.auto.testcase.TC01_TaoBoard@429bffaa]" started-at="2023-04-20T18:52:31 ICT" name="Verify_NameBoard" finished-at="2023-04-20T18:52:32 ICT" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_NameBoard -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC01_TaoBoard@429bffaa]" started-at="2023-04-20T18:52:32 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:32 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+        <test-method signature="idBoard_existed()[pri:0, instance:com.api.auto.testcase.TC01_TaoBoard@429bffaa]" started-at="2023-04-20T18:52:32 ICT" name="idBoard_existed" finished-at="2023-04-20T18:52:32 ICT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idBoard_existed -->
+      </class> <!-- com.api.auto.testcase.TC01_TaoBoard -->
+      <class name="com.api.auto.testcase.TC06_DeleteBoard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.auto.testcase.TC06_DeleteBoard@662b4c69]" started-at="2023-04-20T18:52:35 ICT" name="init" finished-at="2023-04-20T18:52:37 ICT" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_Status_Code()[pri:0, instance:com.api.auto.testcase.TC06_DeleteBoard@662b4c69]" started-at="2023-04-20T18:52:37 ICT" name="Verify_Status_Code" finished-at="2023-04-20T18:52:37 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Status_Code -->
+        <test-method signature="idFirstBoard_deleted()[pri:0, instance:com.api.auto.testcase.TC06_DeleteBoard@662b4c69]" started-at="2023-04-20T18:52:37 ICT" name="idFirstBoard_deleted" finished-at="2023-04-20T18:52:37 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idFirstBoard_deleted -->
+      </class> <!-- com.api.auto.testcase.TC06_DeleteBoard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
